@@ -1,0 +1,4 @@
+* * * * * /home/pritesh/work/jhili/resume-portal/check_and_run_jhiliresume.sh > /dev/null 2>&1
+* * * * * /home/pritesh/work/jhili/comanysite/check_and_run_startup.sh > /dev/null 2>&1
+* * * * * /home/pritesh/work/cronjob/sync_backup.sh > /dev/null 2>&1
+*/2 * * * * /home/pritesh/work/cronjob/sync_backup_500gb.sh > /dev/null 2>&1
